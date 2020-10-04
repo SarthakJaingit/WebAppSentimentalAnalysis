@@ -4,7 +4,6 @@ import os
 import pickle
 import sys
 import sagemaker_containers
-import pandas as pd
 import numpy as np
 import torch
 import torch.nn as nn
